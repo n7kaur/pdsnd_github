@@ -23,7 +23,3 @@ The Chicago and New York City files also have the following two columns:
 
 Gender
 Birth Year
-
-### Credits
-Udacity Mentors
-
